@@ -91,12 +91,12 @@ const kamran = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0B29&title_color=B98CF7&icon_color=B98CF7&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0B29&title_color=B98CF7&text_color=C9D1D9" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kamranxheikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0B29&title_color=B98CF7&icon_color=B98CF7&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamranxheikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0B29&title_color=B98CF7&text_color=C9D1D9" width="38%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0F0B29&ring=B98CF7&fire=B98CF7&currStreakLabel=B98CF7" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamranxheikh&theme=tokyonight&hide_border=true&background=0F0B29&ring=B98CF7&fire=B98CF7&currStreakLabel=B98CF7" width="60%" />
 
 </div>
 
