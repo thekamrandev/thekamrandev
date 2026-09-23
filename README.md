@@ -148,9 +148,10 @@ Fast, search-ready websites end to end — strategy, design, build, launch — w
 #### Infrastructure & tools
 
 <p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel,linux,nginx,bash,git,github,vscode,postman,figma,stripe,wordpress,md&theme=dark&perline=8" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel,linux,nginx,bash,git,github,vscode,postman,figma,wordpress,md&theme=dark&perline=8" /></a>
 </p>
 <p>
+<img src="https://img.shields.io/badge/Stripe-1a1714?style=flat-square&logo=stripe&logoColor=f3ece2" />
 <img src="https://img.shields.io/badge/VPS_Hosting-1a1714?style=flat-square&logo=linux&logoColor=f3ece2" />
 <img src="https://img.shields.io/badge/DNS-1a1714?style=flat-square" />
 <img src="https://img.shields.io/badge/SSL_/_TLS-1a1714?style=flat-square" />
