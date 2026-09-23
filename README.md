@@ -108,9 +108,11 @@ Fast, search-ready websites end to end — strategy, design, build, launch — w
 #### AI / ML
 
 <p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,jupyter,colab,anaconda,ai&theme=dark&perline=8" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,anaconda,ai&theme=dark&perline=8" /></a>
 </p>
 <p>
+<img src="https://img.shields.io/badge/Jupyter-1a1714?style=flat-square&logo=jupyter&logoColor=f3ece2" />
+<img src="https://img.shields.io/badge/Google_Colab-1a1714?style=flat-square&logo=googlecolab&logoColor=f3ece2" />
 <img src="https://img.shields.io/badge/NumPy-1a1714?style=flat-square&logo=numpy&logoColor=f3ece2" />
 <img src="https://img.shields.io/badge/Pandas-1a1714?style=flat-square&logo=pandas&logoColor=f3ece2" />
 <img src="https://img.shields.io/badge/LLM_/_API_Integration-1a1714?style=flat-square&logoColor=ff8a3d" />
